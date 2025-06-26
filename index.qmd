@@ -5,13 +5,14 @@ author: "Viktor Senderov"
 format:
   revealjs:
     incremental: true   
+    navigation-mode: vertical
 bibliography: references.bib
 link-citations: true
 date: 2025-06-26
 show-notes: true
 ---
 
-## How Universal Probabilistic Programming Languages Democratize Modeling in Computational Biology
+# How Universal Probabilistic Programming Languages Democratize Modeling in Computational Biology
 
 or
 
@@ -58,6 +59,28 @@ Cathal Seoighe
 -   Don't shy away from political conversation
 -   Discussed things like the Good Friday accords and Palestine
 :::
+
+## Presentation at Uni Galway
+
+|     |     |
+|-----|-----|
+| ![](images/paste-11.png){width="300"}    | ![](images/paste-12.png)    |
+| [Slides](https://senderov.info/2024-galway-slides/)    |     |
+
+::: notes
+-   Really enjoyed giving this type of talk
+-   Cover more topics than in a typical presentation/ perspective
+-   After, got to judge a student competition on talks and posters
+-   Sat down with Cathal's student and drafted some plans for her
+-   Not easy, but what I found enjoyable is asking open questions to the students about their work
+-   Also I really liked the recognition that I was getting and would like to get to this stage of my career
+:::
+
+## Demo
+
+[Jupyter Server](http://senderov.sf.ddns.bulsat.com:8888/)
+
+# Bonus material - Ireland
 
 ## Irish politics
 
@@ -111,22 +134,3 @@ GDP ranking in Europe:
 ::: notes
 -   ...nothing short of breathtaking
 :::
-
-## Presentation at Uni Galway
-
-![](images/paste-11.png) 
-
-[Slides](https://senderov.info/2024-galway-slides/)
-
-::: notes
--  Really enjoyed giving this type of talk
--  Cover more topics than in a typical presentation/ perspective
--  After, got to judge a student competition on talks and posters
--  Sat down with Cathal's student and drafted some plans for her
--  Not easy, but what I found enjoyable is asking open questions to the students about their work
--  Also I really liked the recognition that I was getting and would like to get to this stage of my career
-:::
-
-## Demo
-
-[Jupyter Server](http://senderov.sf.ddns.bulsat.com:8888/tree?token=1ac8122f99d7f5419a8f16b5b0a1acc002695a6eeb58e80f)
